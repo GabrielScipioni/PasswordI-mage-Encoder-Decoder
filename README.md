@@ -138,7 +138,8 @@ para ejemplificar de una mejor manera, imaginemos que nuestra contraseña es `AH
 
 1. Clona el repositorio a tu máquina local.
 2. Ejecuta la aplicación y sigue las instrucciones para codificar tu contraseña a imágenes.
-3. Para decodificar una imagen a una contraseña, sigue las instrucciones proporcionadas en la aplicación.
+3. una vez termine la aplicacion se abrira la imagen creada. notaras que tambien se creo una carpeta llamada "PasswordIMG", aca se guardaran las codificaciones de tus contraseñas
+4. Para decodificar una imagen a una contraseña, sigue las instrucciones proporcionadas en la aplicación.
 
 ¡Disfruta de una manera innovadora y segura de gestionar tus contraseñas!
 ---
