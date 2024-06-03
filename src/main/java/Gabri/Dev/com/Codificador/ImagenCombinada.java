@@ -57,7 +57,7 @@ public class ImagenCombinada {
             // Guarda la imagen combinada en un archivo PNG
             File directorio = new File("PasswordIMG");
             if (!directorio.exists()) {
-                directorio.mkdir();// Crea el directorio si no existe
+                directorio.mkdir();// Crea el directorio si no existe..
             }
             File archivoSalida = new File(directorio, nombreArchivo + ".png");
             ImageIO.write(imagenCombinada, "png", archivoSalida);
